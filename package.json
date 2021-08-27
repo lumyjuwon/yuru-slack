@@ -1,0 +1,27 @@
+{
+  "name": "yuru-slack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lumyjuwon/yuru-slack.git"
+  },
+  "author": "lumyjuwon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lumyjuwon/yuru-slack/issues"
+  },
+  "homepage": "https://github.com/lumyjuwon/yuru-slack#readme",
+  "dependencies": {
+    "@slack/events-api": "^3.0.0",
+    "@slack/web-api": "^6.2.3"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0",
+    "ts-jest": "^27.0.5"
+  }
+}
